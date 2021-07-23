@@ -1,0 +1,37 @@
+body
+{
+   background-position: center;
+   background-size: cover;
+   text-align: center;
+}
+
+#div
+{
+   text-align: left;
+   width: 100%;
+   line-height: 2;
+}
+
+#game-console
+{
+   width: 400px;
+   height: 700px;
+}
+
+.butt
+{
+   float: right;
+}
+
+.copy_right-footer
+{
+   bottom: 0px;
+   position: fixed;
+   background-color: gray;
+   line-height: 2;
+   font-size: 25px;
+   width: 100%;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: blueviolet;
+}
